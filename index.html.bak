@@ -8,9 +8,16 @@
         'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
         })(window,document,'script','dataLayer','GTM-5X3JCXMD');</script>
         <!-- End Google Tag Manager -->
+        <!-- Google Tag Manager -->
+        <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-5X3JCXMD');</script>
+        <!-- End Google Tag Manager -->
         <meta charset="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
-        <meta name="description" content="ASILI - Servicios Especializados en Psicología Jurídica y Forense. Peritajes, evaluaciones y asesoría profesional en Colombia." />
+        <meta name="description" content="" />
         <meta name="author" content="" />
         <title>ASILI - Servicios Especializados en Psicología jurídica y Forense</title>
         <!-- Favicon-->
@@ -40,9 +47,12 @@
 
         <!-- Scripts no críticos con defer (evitan bloqueo de renderizado) -->
         <script defer src="https://use.fontawesome.com/releases/v6.0.0/js/all.js" crossorigin="anonymous"></script>
-        <link rel="preload" as="image" href="assets/img/fondo_1920x1080.webp" fetchpriority="high">
     </head>
     <body id="page-top">
+        <!-- Google Tag Manager (noscript) -->
+        <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5X3JCXMD"
+        height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+        <!-- End Google Tag Manager (noscript) -->
         <!-- Google Tag Manager (noscript) -->
         <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5X3JCXMD"
         height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
@@ -126,10 +136,7 @@
                                 <div class="portfolio-hover">
                                     <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
                                 </div>
-                                <picture>
-                                    <source srcset="assets/img/penal_384x256.webp" type="image/webp">
-                                    <img class="img-fluid" src="assets/img/penal_384x256.png" alt="penal" width="384" height="256">
-                                </picture>
+                                <picture><source srcset="assets/img/penal_384x256.webp" type="image/webp"><img src="assets/img/penal_384x256.png" alt="penal" width="384" height="256"></picture>
                             </a>
                             <div class="portfolio-caption">
                                 <div class="portfolio-caption-heading">Derecho penal</div>
@@ -144,10 +151,7 @@
                                 <div class="portfolio-hover">
                                     <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
                                 </div>
-                                <picture>
-                                    <source srcset="assets/img/civil_486x256.webp" type="image/webp">
-                                    <img class="img-fluid" src="assets/img/civil_486x256.png" alt="civil" width="486" height="256">
-                                </picture>
+                                <picture><source srcset="assets/img/civil_486x256.webp" type="image/webp"><img src="assets/img/civil_486x256.png" alt="civil" width="486" height="256"></picture>
                             </a>
                             <div class="portfolio-caption">
                                 <div class="portfolio-caption-heading">Derecho civil y de familia</div>
@@ -162,10 +166,7 @@
                                 <div class="portfolio-hover">
                                     <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
                                 </div>
-                                <picture>
-                                    <source srcset="assets/img/administrativo_439x256.webp" type="image/webp">
-                                    <img class="img-fluid" src="assets/img/administrativo_439x256.png" alt="administrativo" width="439" height="256">
-                                </picture>
+                                <picture><source srcset="assets/img/administrativo_439x256.webp" type="image/webp"><img src="assets/img/administrativo_439x256.png" alt="administrativo" width="439" height="256"></picture>
                             </a>
                             <div class="portfolio-caption">
                                 <div class="portfolio-caption-heading">Derecho administrativo y laboral </div>
@@ -185,12 +186,7 @@
                 </div>
                 <ul class="timeline">
                     <li>
-                        <div class="timeline-image">
-                            <picture>
-                                <source srcset="assets/img/informesPericiales_170x170.webp" type="image/webp">
-                                <img class="rounded-circle img-circle" src="assets/img/informesPericiales_170x170.png" alt="informesPericiales" width="170" height="170">
-                            </picture>
-                        </div>
+                        <div class="timeline-image"><picture><source srcset="assets/img/informesPericiales_66x66.webp" type="image/webp"><img src="assets/img/informesPericiales_66x66.png" alt="informesPericiales" width="66" height="66"></picture></div>
                         <div class="timeline-panel">
                             <div class="timeline-heading">
                                 <h4 class="subheading">Informes Periciales y Diagnósticos Legales</h4>
@@ -207,12 +203,7 @@
                         </div>
                     </li>
                     <li class="timeline-inverted">
-                        <div class="timeline-image">
-                            <picture>
-                                <source srcset="assets/img/evaluaciones_170x170.webp" type="image/webp">
-                                <img class="rounded-circle img-circle" src="assets/img/evaluaciones_170x170.png" alt="evaluaciones" width="170" height="170">
-                            </picture>
-                        </div>
+                        <div class="timeline-image"><picture><source srcset="assets/img/evaluaciones_66x70.webp" type="image/webp"><img src="assets/img/evaluaciones_66x70.png" alt="evaluaciones" width="66" height="70"></picture></div>
                         <div class="timeline-panel">
                             <div class="timeline-heading">
                                 <h4 class="subheading">Evaluaciones Específicas en Contextos Judiciales</h4>
@@ -230,12 +221,7 @@
                         </div>
                     </li>
                     <li>
-                        <div class="timeline-image">
-                            <picture>
-                                <source srcset="assets/img/intervencion_170x170.webp" type="image/webp">
-                                <img class="rounded-circle img-circle" src="assets/img/intervencion_170x170.png" alt="intervencion" width="170" height="170">
-                            </picture>
-                        </div>
+                        <div class="timeline-image"><picture><source srcset="assets/img/intervencion_66x70.webp" type="image/webp"><img src="assets/img/intervencion_66x70.png" alt="intervencion" width="66" height="70"></picture></div>
                         <div class="timeline-panel">
                             <div class="timeline-heading">
                                 <h4 class="subheading">Intervención en Casos de Violencia, Abuso o Acoso</h4>
@@ -275,10 +261,7 @@
                 <div class="row">
                     <div class="col-lg-4">
                         <div class="team-member">
-                            <picture>
-                                <source srcset="assets/img/valeVilla_208x208.webp" type="image/webp">
-                                <img class="mx-auto rounded-circle" src="assets/img/valeVilla_208x208.png" alt="valeVilla" width="208" height="208">
-                            </picture>
+                            <picture><source srcset="assets/img/valeVilla_208x208.webp" type="image/webp"><img src="assets/img/valeVilla_208x208.png" alt="valeVilla" width="208" height="208"></picture>
                             <h4>Valentina Bermúdez Villa</h4>
                             <p class="text-muted">Especialista en Psicología Jurídica y Forense</p>
                             <a class="btn btn-dark btn-social mx-2" href="#!" aria-label="Valentina Villa Bermudez LinkedIn Profile"><i class="fab fa-linkedin-in"></i></a>
@@ -286,10 +269,7 @@
                     </div>
                     <div class="col-lg-4">
                         <div class="team-member">
-                            <picture>
-                                <source srcset="assets/img/diana_208x208.webp" type="image/webp">
-                                <img class="mx-auto rounded-circle" src="assets/img/diana_208x208.png" alt="diana" width="208" height="208">
-                            </picture>
+                            <picture><source srcset="assets/img/diana_208x208.webp" type="image/webp"><img src="assets/img/diana_208x208.png" alt="diana" width="208" height="208"></picture>
                             <h4>Diana Villa Suarez</h4>
                             <p class="text-muted">Abogada Penalista</p>
                             <a class="btn btn-dark btn-social mx-2" href="#!" aria-label="Diana Petersen LinkedIn Profile"><i class="fab fa-linkedin-in"></i></a>
@@ -297,10 +277,7 @@
                     </div>
                     <div class="col-lg-4">
                         <div class="team-member">
-                            <picture>
-                                <source srcset="assets/img/lauraTorres_208x208.webp" type="image/webp">
-                                <img class="mx-auto rounded-circle" src="assets/img/lauraTorres_208x208.png" alt="lauraTorres" width="208" height="208">
-                            </picture>
+                            <picture><source srcset="assets/img/lauraTorres_208x208.webp" type="image/webp"><img src="assets/img/lauraTorres_208x208.png" alt="lauraTorres" width="208" height="208"></picture>
                             <h4>Laura Torres María </h4>
                             <p class="text-muted">Especialista en Psicología Jurídica y Forense</p>
                             <a class="btn btn-dark btn-social mx-2" href="#!" aria-label="Diana Petersen LinkedIn Profile"><i class="fab fa-linkedin-in"></i></a>
@@ -308,10 +285,7 @@
                     </div>
                     <div class="col-lg-4">
                         <div class="team-member">
-                            <picture>
-                                <source srcset="assets/img/juanjo_208x208.webp" type="image/webp">
-                                <img class="mx-auto rounded-circle" src="assets/img/juanjo_208x208.jpeg" alt="juanjo" width="208" height="208">
-                            </picture>
+                            <picture><source srcset="assets/img/juanjo_208x208.webp" type="image/webp"><img src="assets/img/juanjo_208x208.jpeg" alt="juanjo" width="208" height="208"></picture>
                             <h4>Juan Jose Ochoa Ortiz</h4>
                             <p class="text-muted">Perito Informatico</p>
                             <a class="btn btn-dark btn-social mx-2" href="#!" aria-label="Juan Jose Ochoa Ortiz LinkedIn Profile"><i class="fab fa-linkedin-in"></i></a>
